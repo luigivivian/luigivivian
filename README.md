@@ -1,4 +1,4 @@
-## Olá, me chamo Luigi Vivian, Bem vindo ao meu github :)
+## Welcome to my github profile :)
  <div>
   <a href="https://github.com/luigivivian">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luigivivian&show_icons=true&include_all_commits=true&count_private=true"/>
