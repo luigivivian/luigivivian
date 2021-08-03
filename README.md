@@ -4,7 +4,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luigivivian&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luigivivian&layout=compact&langs_count=10"/>
 </div>
-<p>my loves</p
+ <p>my loves</p>
 <div style="display: inline_block"><br>
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
  ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
