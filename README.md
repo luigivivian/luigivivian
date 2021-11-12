@@ -45,8 +45,6 @@
   <img src="https://profile-counter.glitch.me/luigivivian/count.svg" />
 </p>
 
-<img src="stats.gif" width="90%"><br/><br/>
-
 
 ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
  
