@@ -1,4 +1,4 @@
-## Hello, i'am Luigi Vivian, fullstack engineer
+## Hello, i'am Luigi Vivian, fullstack developer
 ## Welcome to my profile
  <div>
   <a href="https://github.com/luigivivian">
